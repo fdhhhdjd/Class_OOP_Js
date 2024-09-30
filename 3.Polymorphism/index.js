@@ -32,7 +32,7 @@ class PremiumCustomer extends Customer {
   }
 }
 
-// Regular Customer
+//* Regular Customer
 const regularCustomer = new Customer("Tom", "789 Maple St", "555-987-6543");
 const premiumCustomer = new PremiumCustomer(
   "Tai Dep Trai",
@@ -41,8 +41,8 @@ const premiumCustomer = new PremiumCustomer(
   20
 );
 
-// Customer Normal
-regularCustomer.placeOrder("TV"); // No discount, regular order
+//* Customer Normal
+regularCustomer.placeOrder("TV"); //* No discount, regular order
 
-// Premium Customer
-premiumCustomer.placeOrder("TV"); // With discount, premium order
+//* Premium Customer
+premiumCustomer.placeOrder("TV"); //* With discount, premium order
