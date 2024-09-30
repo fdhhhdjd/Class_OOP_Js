@@ -1,0 +1,20 @@
+{
+  // Auto Format code on save
+  "editor.formatOnSave": true,
+
+  // Use Prettier to format JavaScript files
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Check syntax errors and errors in code with ESLint for JS and TS files.
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  // Automatically correct errors reported in the code when saving the file.
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+}
