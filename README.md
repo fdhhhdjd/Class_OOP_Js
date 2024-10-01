@@ -72,5 +72,5 @@ Imagine you're building a customer management system:
 <p align="center">
   <a href="https://profile-forme.com/" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="100"></a>
   <br/>
-  Created by <strong>Tai Nguyen Tien</strong>
+  Created by <strong> Nguyen Tien Tai</strong>
 </p>
