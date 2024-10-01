@@ -69,6 +69,8 @@ Imagine you're building a customer management system:
 - **Method chaining**: Allows calling multiple methods on the same object in a single line, improving code conciseness.
 - **Composition**: Is an alternative to inheritance, where objects are composed of smaller objects (has-a relationship). It’s more flexible than inheritance and avoids tightly coupling classes.
 
+---
+
 <p align="center">
   <a href="https://profile-forme.com/" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="100"></a>
   <br/>
